@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# артефакты запуска - веса, графики, подготовленные данные, отчёты о скорости
+*.npy
+weights.json
+loss.png
+performance_report*.json
+
+data/output/*
+!data/output/.gitkeep
+
+logs/*
+!logs/.gitkeep
