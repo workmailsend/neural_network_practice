@@ -13,5 +13,7 @@ performance_report*.json
 data/output/*
 !data/output/.gitkeep
 
+data/input/part3_sample_big/
+
 logs/*
 !logs/.gitkeep
